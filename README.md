@@ -1,3 +1,3 @@
-# navegame.github.io
+# navegame
 
 [Veja Aqui!!!](https://luizcarlosgt.github.io/navegame)
