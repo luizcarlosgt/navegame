@@ -1,0 +1,20 @@
+h2{
+    color: white;
+    margin: 50px;
+}
+
+#myCanvas {
+    width: 800px;
+    height: 8a00px;
+    color: #663399;
+    border: 2px solid rgb(17, 16, 16);
+    border-radius: 5px;
+    box-shadow: 0px 0px 25px rgba(255, 255, 255, 0.212);
+}
+
+.myCanvas{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+}
